@@ -1,4 +1,28 @@
-body {
-    background-color: salmon;
-    color: white;
+body, html {
+    background-color: rgb(38, 32, 68);
+    color: rgb(255, 255, 255);
+    height: 100%;
+    margin: 0px;
+    font-family:sans-serif;
+}
+h1 {
+width: 100%;
+border: 15px solid black;
+padding: 20px;
+margin: 20px;
+background-color:black;
+}
+h1 {
+    color:coral;
+    font-family:monospace;
+}
+a {
+    color:coral
+}
+nav {
+    width: 100px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 5px;
+    background-color: black;
 }
